@@ -1,0 +1,13 @@
+{
+  "name": "VAULTIX",
+  "symbol": "VLTX",
+  "decimals": 18,
+  "description": "VAULTIX is a premium DeFi token built to store long-term value and generate legacy wealth through the power of decentralized finance. Backed by clean tokenomics and smart contract precision, $VLTX is the key to the vault.",
+  "website": "https://vaultix.io",
+  "explorer": "https://explorer.apertum.io/address/0xD1dB89a2C8DD3B4E15A9015Ac1cf75e604722537",
+  "status": "active",
+  "type": "token",
+  "id": "vaultix",
+  "tags": ["defi", "vault", "passive-income", "erc20", "store-of-value"],
+  "logoURI": "https://raw.githubusercontent.com/vaultix/vaultix-token-assets/main/logo.png"
+}
